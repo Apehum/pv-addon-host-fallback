@@ -8,6 +8,9 @@ If the player successfully connects to a fallback host, that host will be stored
 > [!WARNING]  
 > This addon requires [2.1.3+](https://github.com/plasmoapp/plasmo-voice/releases/tag/2.1.3-SNAPSHOT) version of Plasmo Voice.
 
+### Download
+Addon is currently only available to download in actions' artifacts: https://github.com/Apehum/pv-addon-host-fallback/actions.
+
 ### config.toml
 ```toml
 # If player doesn't connect within the specified "connection_window_seconds",
